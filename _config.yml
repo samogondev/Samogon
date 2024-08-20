@@ -1,4 +1,1 @@
-remote_theme: pages-themes/midnight@v0.2.0
-title: [SamogonDeveloper]
-description: [Хэй! Я Разработчик СамогонБота, мне 14 лет и зовут Максим. 
-Я недавно начал путь программирования, немного знаю язык Python, JavaScript. ]
+theme: theme: jekyll-theme-minimal
